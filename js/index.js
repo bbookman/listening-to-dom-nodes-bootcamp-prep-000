@@ -12,3 +12,7 @@ function bubble(e) {
 for (let i = 0; i < divs.length; i++) {
   divs[i].addEventListener('click', bubble);
 }
+<<<<<<< HEAD
+=======
+Now try cli
+>>>>>>> 41eb347f4d1a59e81eb023740a79f5050b6177b2
